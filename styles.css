@@ -22,23 +22,25 @@ main p {
 }
 
 .tip {
-  color: seagreen;
+  color: crimson;
   font-style: italic;
 }
 
 #deal {
-  color: darkorange;
+  color: crimson;
+  font-weight: bold;
 }
 
 .stalls li {
   color: purple;
 }
 
-.sale {
+.stalls .sale {
   color: firebrick;
 }
 
-footer {
+footer p,
+footer a {
   color: dimgray;
   font-style: italic;
 }
